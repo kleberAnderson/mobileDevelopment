@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jogadorDados</string>
+    <string name="one_dice">1 dice</string>
+    <string name="two_dice">2 dices</string>
+    <string name="three_dice">3 dices</string>
+    <string name="buttonGenerate"> generate</string>
+    <string name="messageTextView"> Generate values</string>
+</resources>

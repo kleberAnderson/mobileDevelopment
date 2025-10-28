@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jogadorDados</string>
+    <string name="one_dice">1 dado</string>
+    <string name="two_dice">2 dados</string>
+    <string name="three_dice">3 dados</string>
+    <string name="buttonGenerate">gerar</string>
+    <string name="messageTextView">Gerar valores</string>
+</resources>

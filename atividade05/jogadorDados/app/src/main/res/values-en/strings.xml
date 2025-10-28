@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jogadorDados</string>
+    <string name="one_dice">one - dice</string>
+    <string name="two_dice">"two - dices "</string>
+    <string name="three_dice">three - dices</string>
+    <string name="buttonGenerate">generate</string>
+    <string name="messageTextView">Generate values</string>
+</resources>
