@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">caculadorAutonomia</string>
+    <string name="consumo_medio">(km/L)</string>
+    <string name="quantidade_litros">(L)</string>
+    <string name="calcular">"calculate autonomy "</string>
+    <string name="tela_mensagem">Hello, can I help you?</string>
+</resources>
