@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConversorArmazenamentoDigital</string>
+    <string name="campo_bits">Digite o número de bits</string>
+    <string name="campo_texto">Olá, digite o número a ser convertido</string>
+    <string name="botao_conveter">Converter</string>
+</resources>
