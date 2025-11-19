@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="menu_inicial">Inicial</string>
+    <string name="menu_professor">Professor</string>
+    <string name="menu_disciplina">Disciplina</string>
+    <string name="codigo">Código</string>
+    <string name="nome">Nome</string>
+    <string name="titulacao">Titulação</string>
+    <string name="buscar">Buscar</string>
+    <string name="inserir">Inserir</string>
+    <string name="modificar">Modificar</string>
+    <string name="excluir">Excluir</string>
+    <string name="listar">Listar</string>
+</resources>
